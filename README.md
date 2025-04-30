@@ -1,7 +1,3 @@
-Bhatti, Muhammad Ahtisham, 22301502
-
--, Love, 12306406
-
 **StarX** 
 
 [MyGit Repository](https://mygit.th-deg.de/mb04502/StarX)

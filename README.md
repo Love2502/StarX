@@ -14,7 +14,7 @@ Follow these steps to set up and run the StarX application. Make sure to have th
 - It is recommended to use a bash shell or Linux shell for the project.
 
 1. Clone the repository:  
-   `git clone https://mygit.th-deg.de/mb04502/StarX`
+   `https://github.com/Love2502/StarX.git`
 
 2. Navigate to the project folder:  
    `cd starx`
